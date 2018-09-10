@@ -1,1 +1,3 @@
 # DenemeProjem
+
+Oglum bi git :) 
